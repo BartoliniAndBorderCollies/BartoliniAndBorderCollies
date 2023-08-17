@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @BartoliniAndBorderCollies I'm currently Scrum Product Owner but I'm on my way to become a software developer.
-- 👀 I've fallen in love with programming and Computer Science. I'm passionate about learning.
-- 🌱 I’m currently learning generics. Soon I will start Spring framwework.
-- 🛠 Skills and technologies: Java, IntelliJ, Git, GitHub, SQL, HQL, MySql, Workbench, JDBC, JPA, Hibernate, JUnit, Postman
+- 👀 I've fallen in love with programming and Computer Science. I'm passionate about learning, spending around 4 hours for study everyday.
+- 🌱 I've been learning Java language since October 2022. I have a private teacher and mentor also I'm student of Codecademy. I'm starting Computer Science studies in October 2023 at Gdańsk, Poland.
+- 🛠 Skills and technologies: Java, IntelliJ, Git, GitHub, SQL, HQL, MySql, Workbench, JDBC, JPA, Hibernate, JUnit, Postman.
+  Currently I'm learning generics and afterwards Spring framwework.
 - 👩‍💻 My latest project is: ([Library Manager](https://github.com/BartoliniAndBorderCollies/Library_Manager_Official))
 - 📫 You can reach me by sending email to: bartek.klodnicki@gmail.com
 
