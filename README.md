@@ -4,7 +4,7 @@
 - 🛠 Skills and technologies: Java, IntelliJ, Git, GitHub, SQL, HQL, MySql, Workbench, JDBC, JPA, Hibernate, JUnit, Postman.
   Currently I'm learning generics and afterwards Spring framwework.
 - 👩‍💻 My latest project is: ([Library Manager](https://github.com/BartoliniAndBorderCollies/Library_Manager_Official))
-- 📫 You can reach me by sending email to: bartek.klodnicki@gmail.com
+- 📫 You can reach me by sending email to: ([my email](bartek.klodnicki@gmail.com))
 
 <!---
 BartoliniAndBorderCollies/BartoliniAndBorderCollies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
