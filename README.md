@@ -5,7 +5,6 @@
   Currently I'm making:  ([Rent a bike REST API](https://github.com/BartoliniAndBorderCollies/Bike.v2_REST_API))
 - 👩‍💻 My latest project is: ([Library Manager](https://github.com/BartoliniAndBorderCollies/Library_Manager_Official))
 - 📫 You can reach me by sending email to: <a href="mailto:bartek.klodnicki@gmail.com">my email</a>
-- 
 
 <!---
 BartoliniAndBorderCollies/BartoliniAndBorderCollies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
