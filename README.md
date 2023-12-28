@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BartoliniAndBorderCollies I'm looking for a job as Junior Java Developer heading to become Full Stack Developer.
+- 👋 Hi, I’m @BartoliniAndBorderCollies I'm looking for a job as Junior Java Developer -> heading to become Full Stack Developer.
 - 👀 I've fallen in love with programming and Computer Science. I'm passionate about learning, spending many hours for studying everyday.
 - 🌱 I've been learning Java language since October 2022. I'm a student of CodeCademy and CodeMe Foundation, I also have a private professional developer who is my teacher and mentor.
   In Febraury 2024 I'm starting another course -> Front-End Developer (HTML5 & CSS3, JavaScript + React) at CodeMe Foundation. 
