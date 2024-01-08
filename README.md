@@ -5,6 +5,7 @@
 - 🌱 In Febraury 2024 I'm starting another course -> Front-End Developer (HTML5 & CSS3, JavaScript + React) at Code:Me Foundation. 
 - 🛠 Skills and technologies: `Jira `, `Scrum methodology`, `Java`, `IntelliJ`, `Git`, `GitHub`, `Hibernate`, `Spring Boot`, `SQL`, `HQL`, `MySQL`, `JUnit`, `Mockito`, `integration testing`, `Spring Security`, `Postman`. <br>
   Currently I'm making: [Restaurant Management System REST API](https://github.com/BartoliniAndBorderCollies/Restaurant_Management_System_REST_API)
+  <br>
 - 👩‍💻 My latest project are: <br>
 🔭 [Rent a bike REST API](https://github.com/BartoliniAndBorderCollies/Bike.v2_REST_API)
 <br> 🔭 [Library Manager](https://github.com/BartoliniAndBorderCollies/Library_Manager_Official)
