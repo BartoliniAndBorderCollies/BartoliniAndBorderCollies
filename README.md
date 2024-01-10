@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BartoliniAndBorderCollies I'm looking for a job as `Junior Java Developer` -> heading to become `Full-Stack Developer`.
-- 👀 I've fallen in love with programming and Computer Science. I'm passionate about learning, spending many hours for studying everyday.
+- 👀 I've fallen in love with programming and Computer Science. I'm passionate about learning, spending many hours for studying everyday. <br>
   I'm a student at Merito University in Gdańsk, Poland - studying Computer Science with a speciality of Software Development. I'm also a student of [CodeCademy](https://www.codecademy.com/learn) and [Code:Me](https://codeme.pl/).
   I've been learning Java language since October 2022. I have a private professional developer who is my teacher and mentor. 
 - 🔭 Over the past six years, I have been part of an IT team responsible for the development of a commercial project called ‘Vincent Web API’. This application, designed for pricing windows and doors, covers 90% of window companies in Norway and Sweden.
