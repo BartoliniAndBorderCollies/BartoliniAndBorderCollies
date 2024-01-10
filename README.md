@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @BartoliniAndBorderCollies I'm looking for a job as `Junior Java Developer` -> heading to become `Full-Stack Developer`.
-- 🔭 Over the past six years, I have been part of an IT team responsible for the development of a commercial project called ‘Vincent Web API’. This application, designed for pricing windows and doors, covers 90% of window companies in Norway and Sweden.
 - 👀 I've fallen in love with programming and Computer Science. I'm passionate about learning, spending many hours for studying everyday.
-  I've been learning Java language since October 2022. I have a private professional developer who is my teacher and mentor. I'm also a student of [CodeCademy](https://www.codecademy.com/learn) and [Code:Me](https://codeme.pl/).
+  I'm a student at Merito University in Gdańsk, Poland - studying Computer Science with a speciality of Software Development. I'm also a student of [CodeCademy](https://www.codecademy.com/learn) and [Code:Me](https://codeme.pl/).
+  I've been learning Java language since October 2022. I have a private professional developer who is my teacher and mentor. 
+- 🔭 Over the past six years, I have been part of an IT team responsible for the development of a commercial project called ‘Vincent Web API’. This application, designed for pricing windows and doors, covers 90% of window companies in Norway and Sweden.
 - 🌱 In Febraury 2024 I'm starting another course -> Front-End Developer (HTML5 & CSS3, JavaScript + React) at Code:Me Foundation. 
 - 🛠 Skills and technologies: `Jira `, `Scrum methodology`, `Java`, `IntelliJ`, `Git`, `GitHub`, `Hibernate`, `Spring Boot`, `SQL`, `HQL`, `MySQL`, `JUnit`, `Mockito`, `integration testing`, `Spring Security`, `Postman`. <br>
   Currently I'm making: [Restaurant Management System REST API](https://github.com/BartoliniAndBorderCollies/Restaurant_Management_System_REST_API)
