@@ -3,6 +3,7 @@
 - 👀 I’ve developed a passion for programming and Computer Science, dedicating many hours each day to studying. I’ve been learning `Java since October 2022` under the guidance of a professional developer who serves as my teacher and mentor. I continue to learn Java by developing apps and receiving code reviews from my mentor.
 - 🛠 Skills and technologies: `Java`, `JavaScript`, `XML`, `HTML`, `CSS`, `Spring Boot`, `Hibernate`, `React`, `Spring Security`, `SQL`, `HQL`, `MySQL`, `PostgreSQL`, `IntelliJ`, `Virtual Studio Code`, `Postman`, `Postbird`, `mySQL Workbench`, `Git`, `GitHub`, `GitLab`, `Jira`, `Scrum methodology`, `JUnit`, `Mockito`, `integration testing`.
 <br>  Currently, I'm learning `React` and other frontend technologies. To achieve this, I take classes with my developer mentor and teacher, and I have also enrolled in the `Frontend Developer course` at [Code Me Foundation](https://codeme.pl/b2b-en)
+- 🔭 I am also studying `Computer Science` at Merito University in Poznań, Poland, where I am learning `C#` among many other important topics.
 - 👩‍💻 My official latest projects include:
 <br> 🔭 [Interview simulation excersise](https://github.com/BartoliniAndBorderCollies/EMS_junior_developer_interview)
 <br> 🔭 [Restaurant Management System REST API](https://github.com/BartoliniAndBorderCollies/Restaurant_Management_System_REST_API)
