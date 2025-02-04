@@ -14,7 +14,7 @@
 - Testing: `JUnit`, `Mockito`, `integration` `testing`
 
 - 👩‍💻 My official latest projects include:
-<br> 🔭 [Employee Attendance Tracking](https://github.com/BartoliniAndBorderCollies/EMS_junior_developer_interview)
+<br> 🔭 [Employee Attendance Tracking](https://github.com/BartoliniAndBorderCollies/Employee_attendance_tracking)
 <br> 🔭 [Restaurant Management System REST API](https://github.com/BartoliniAndBorderCollies/Restaurant_Management_System_REST_API)
 <br> 🔭 [Rent a bike REST API](https://github.com/BartoliniAndBorderCollies/Bike.v2_REST_API)
 <br> 🔭 [Library Manager](https://github.com/BartoliniAndBorderCollies/Library_Manager_Official)
