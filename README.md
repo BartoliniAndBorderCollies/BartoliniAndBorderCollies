@@ -1,8 +1,6 @@
-👋 Hi, I’m @BartoliniAndBorderCollies. I am currently seeking a position as a `Junior Software Developer`.
-- 👩‍💻 I am studying `Computer Science` at Merito University in Poznań, specializing in `C#` as my primary programming language.
-- 🔭 I am also learning electronics and working on STEM projects. I build robots and vehicles and program microcontrollers.
-- 👀 Over the past six years, I have been part of an IT team responsible for developing a commercial project called Vincent Web API. This application, designed for pricing windows and doors, is used by 90% of window companies in Norway and Sweden.
-- 👀 I have developed a passion for programming and computer science, dedicating many hours each day to studying. Since October 2022, I have been learning `Java` under the guidance of a professional developer who serves as my teacher and mentor. I continue to enhance my skills in Java by developing applications and receiving detailed code reviews from my mentor.
+👋 Hi, I’m @BartoliniAndBorderCollies!
+👩‍💻 Currently on Intern as a `Junior Java Developer` (since January 2024). Developed back-end applications using `Java`, `Spring Boot`, `Hibernate`, `MySQL`, and implemented `integration` and `unit` `testing` (`JUnit` with `Mockito`). `Computer Science Engineering student` with a strong foundation in software development. 
+Six years of experience working on `Vincent WEB API` in an `Agile` (Scrum) environment. Passionate about electronics, building robotic systems, and programming microcontrollers.
 - 🛠 Skills and technologies:
 - Programming languages: `Java`, `C#`, `C++`
 - Web technologies: `XML`, `HTML`, `CSS`
