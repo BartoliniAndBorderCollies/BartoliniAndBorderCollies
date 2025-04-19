@@ -1,12 +1,12 @@
 👋 Hi, I’m @BartoliniAndBorderCollies!
-👩‍💻 Currently on Intern as a `Junior Java Developer` (since January 2024). Developed back-end applications using `Java`, `Spring Boot`, `Hibernate`, `MySQL`, and implemented `integration` and `unit` `testing` (`JUnit` with `Mockito`). `Computer Science Engineering student` with a strong foundation in software development. 
+👩‍💻 Recently on Intern as a `Junior Java Developer` (since January 2024 till March 2025). Developed back-end applications using `Java`, `Spring Boot`, `Hibernate`, `MySQL`, and implemented `integration` and `unit` `testing` (`JUnit` with `Mockito`). `Computer Science Engineering student` with a strong foundation in software development. 
 Six years of experience working on `Vincent WEB API` in an `Agile` (Scrum) environment. Passionate about electronics, building robotic systems, and programming microcontrollers.
 - 🛠 Skills and technologies:
-- Programming languages: `Java`, `C#`, `C++`
+- Programming languages: `Java`, `Python`, `C#`
 - Web technologies: `XML`, `HTML`, `CSS`
 - Frameworks and tools: `Spring Boot`, `Hibernate`, `Spring Security`
 - Databases: `SQL`, `HQL`, `MySQL`, `PostgreSQL`
-- Development tools: `IntelliJ`, `Visual Studio Code`, `Postman`, `Postbird`, `MySQL` `Workbench`
+- Development tools: `Linux`, `Powershell`, `IntelliJ`, `Visual Studio Code`, `Postman`, `Postbird`, `MySQL` `Workbench`
 - Version control and collaboration: `Git`, `GitHub`, `GitLab`
 - Project management: `Jira`, `Scrum methodology`
 - Testing: `JUnit`, `Mockito`, `integration` `testing`
