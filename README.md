@@ -11,7 +11,7 @@ Passionate about software development, automation, and continuous learning.
 
 Languages: C#, Java, Python
 
-Frameworks / Ecosystem / Tools: .NET, WinForms, PowerShell, YAML, Spring Boot, Hibernate, Spring Security
+Frameworks / Ecosystem / Tools: .NET, ASP.NET Core, WinForms, PowerShell, YAML, Spring Boot, Hibernate, Spring Security
 
 Databases & Query Languages: SQL, HQL, MySQL, PostgreSQL
 
